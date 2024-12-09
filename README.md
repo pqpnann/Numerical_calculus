@@ -1,1 +1,2 @@
+# Bem-vindo
 Repositório dedicado a mostrar exercícios e métodos de cálculo numérico utilizando a linguagem Python para fazer os cálculos, além do projeto final feito para a matéria de cálculo numérico, que envolveu demonstrar uma aplicação prática de métodos numéricos no mundo real. O tema escolhido para o projeto foi o da resolução do Problema dos Três Corpos. Mais informações no subdiretório do projeto.
