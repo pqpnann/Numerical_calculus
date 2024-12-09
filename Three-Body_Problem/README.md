@@ -4,6 +4,7 @@ O problema dos três corpos é um clássico da mecânica celeste que busca descr
 # O Problema Restrito dos Três Corpos
 O problema restrito dos três corpos é uma simplificação do problema geral que considera um dos corpos como sendo de massa desprezível (ou seja, não influencia os outros dois corpos significativamente). Os dois corpos principais seguem órbitas influenciadas mutuamente (como no problema de dois corpos), enquanto o terceiro corpo é influenciado pelo campo gravitacional resultante, mas não interfere nele.
 
-# Objetivo do trabalho
+# Paper
 Este trabalho teve como objetivo simular a órbita de Plutão no sistema Sol-Netuno-Plutão, que forma um caso real do Problema Restrito dos Três Corpos, sendo Plutão o corpo celeste de massa desprezível no sistema. Como pôde ser visto, a órbita de Plutão forma um desenho único e bem diferente.
-Para fazer os cálculos matemáticos e a representação gráfica da órbita, foi usada a linguagem Python e sua biblioteca _Matplotlib_.
+A resolução matemática utilizou o conhecido método de Runge-Kutta para resolução de EDOs.
+Para fazer os cálculos matemáticos e a representação gráfica da órbita, foi usada a linguagem Python e sua biblioteca _Matplotlib_. O paper foi feito em LaTeX, como um verdadeiro paper científico.
