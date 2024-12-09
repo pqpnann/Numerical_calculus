@@ -1,4 +1,3 @@
-# exercício 2
 import numpy as np
 
 def regra_do_trapezio(func, a, b, n):
