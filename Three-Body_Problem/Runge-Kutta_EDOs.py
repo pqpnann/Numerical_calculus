@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as pl
+import matplotlib.pyplot as plt
 
 # Código de implementação das EDOs referentes ao problema
 def EDOs( x , y , u , v , mu) :
