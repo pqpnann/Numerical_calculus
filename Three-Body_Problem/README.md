@@ -8,3 +8,7 @@ O problema restrito dos três corpos é uma simplificação do problema geral qu
 Este trabalho teve como objetivo simular a órbita de Plutão no sistema Sol-Netuno-Plutão, que forma um caso real do Problema Restrito dos Três Corpos, sendo Plutão o corpo celeste de massa desprezível no sistema. Como pôde ser visto, a órbita de Plutão forma um desenho único e bem diferente.
 A resolução matemática utilizou o conhecido método de Runge-Kutta para resolução de EDOs.
 Para fazer os cálculos matemáticos e a representação gráfica da órbita, foi usada a linguagem Python e sua biblioteca _Matplotlib_. O paper foi feito em LaTeX, como um verdadeiro paper científico.
+
+# Arquivos
+O código presente em _Runge-Kutta_EDOs.py_ implementa o algoritmo de Runge-Kutta para as Equações Diferenciais Ordinárias deduzidas no paper e com as condições iniciais tiradas do [artigo](https://www.scielo.br/j/rbef/a/ngrxHPwZ6bDbbhvPnnLQ8LL/?format=pdf&lan) que está nas referências bibliográficas. 
+O código em _Plot.py_ plota a órbita de Plutão no sistema Sol-Netuno-Plutão utilizando a biblioteca _Matplotlib_.
